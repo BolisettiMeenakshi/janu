@@ -1,0 +1,2 @@
+Deposited amount is 100
+withdrawn amount is 50
