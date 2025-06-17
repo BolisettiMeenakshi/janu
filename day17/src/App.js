@@ -1,9 +1,11 @@
 //import logo from './logo.svg';
-import cricket from '../src/components/cricket'
+import Cricket from './components/Cricket'
 
 function App() {
   return (
-    <div>cricket</div>
+    <div>
+      <cricket target = {150} totalOvers = {20}/>
+    </div>
   );
 }
 
