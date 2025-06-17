@@ -48,10 +48,11 @@ one {
     transition: transform 0.5s;
 }
 .cards:hover {
-    transform: scale(2.00);
+    transform: scale(1.05);
 }
 .grid-gallery {
     display: grid;
+    border: 2px solid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     padding: 20px;
